@@ -1,0 +1,187 @@
+
+@font-face {
+	font-family: "CustomFont";
+	src: url(StardustAdventure.ttf);
+}
+
+body {
+display: flex;
+height: 95vh;
+width: 100vw;	
+}
+
+.restrict-img-size2 { 
+	height: 80%;
+	width: 50%;
+}
+
+p.a {
+  font-family: "CustomFont", cursive;
+   font-size: 110px;
+   text-align: center;
+   padding-bottom: 2px;
+   margin: 0;
+}
+
+p.b {
+  font-family: "CustomFont", cursive;
+   font-size: 50px;
+   text-align: center;
+   padding-top: 30px;
+   padding-left: 38px;
+   margin: 0;
+}
+
+.pink {
+	height: 100%;
+	width: 10%;
+	background-color: #FFFFFF;
+}
+
+.black1 {
+	height: 100%;
+	width: 50%;
+	background-color: #FFFFFF;
+	padding-top: 100px;
+	padding-left: 150;
+}
+
+.green {
+	display: block;
+	height: 100%;
+	width: 100%;
+	background-color:#82FF64;
+}
+
+
+.green2 {
+	display: block;
+	height: 40%;
+	width: 100%;
+	background-color:#82FF64;
+}
+
+.orange {
+	display: flex;
+	height: 10%;
+	width: 100%;
+	background-color:#FFCA64;
+}
+
+.red {
+	display: flex;
+	height: 100%;
+	width: 20%;
+	background-color:#C1E2CD;
+
+}
+
+.red2 {
+	display: flex;
+	height: 100%;
+	width: 10%;
+	background-color:#FFFFFF;
+}
+
+.red3 {
+	display: flex;
+	height: 100%;
+	width: 10%;
+	background-color:#FFFFFF;
+}
+
+
+.red5 {
+	display: flex;
+	height: 100%;
+	width: 20%;
+	background-color:#C1E2CD;
+}
+
+.red6 {
+	display: flex;
+	height: 100%;
+	width: 80%;
+	background-color:#FFFFFF;
+}
+
+.blue2 {
+	display: flex;
+	height: 20%;
+	width: 100%;
+	background-color:#64CFFF;
+}
+
+.purple {
+	display: flex;
+	height: 100%;
+	width: 80%;
+	background-color:#9E64FF;
+}
+.purple2 {
+	display: flex;
+	height: 100%;
+	width: 20%;
+	background-color:#FFFFFF;
+}
+
+.purple3 {
+	display: block;
+	height: 10%;
+	width: 100%;
+	background-color:#FFFFFF;
+}
+
+.gray {
+	display: block;
+	height: 100%;
+	width: 100%;
+	background-color:#FFC0CB;
+}
+
+.lightpink {
+	display: block;
+	height: 100%;
+	width: 10%;
+	background-color:#FBA8FF;
+}
+
+
+.brown1 {
+	display: flex;
+	height: 50%;
+	width: 100%;
+	background-color:#FBA8FF;
+}
+
+.brown2 {
+	display: flex;
+	height: 50%;
+	width: 100%;
+	background-color:#FBA8FF;
+}
+
+
+
+
+.blue {
+	display: flex;
+	height: 90%;
+	width: 100%;
+	background-color:#64CFFF;
+}
+
+
+.lightred {
+	display: flex;
+	height: 100%;
+	width: 95%;
+	background-color:#C1E2CD;
+}
+
+.orange2 {
+	display: flex;
+	height: 20%;
+	width: 100%;
+	background-color:#FFC788;
+}
