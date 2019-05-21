@@ -4,6 +4,11 @@
 	src: url(StardustAdventure.ttf);
 }
 
+@font-face {
+	font-family: "CustomFont2";
+	src: url(Amarante.otf);
+}
+
 body {
 display: flex;
 height: 95vh;
@@ -11,13 +16,13 @@ width: 100vw;
 }
 
 .restrict-img-size2 { 
-	height: 80%;
-	width: 50%;
+	height: 100%;
+	width: 100%;
 }
 
 p.a {
-  font-family: "CustomFont", cursive;
-   font-size: 110px;
+  font-family: "CustomFont2", cursive;
+   font-size: 20px;
    text-align: center;
    padding-bottom: 2px;
    margin: 0;
@@ -41,9 +46,34 @@ p.b {
 .black1 {
 	height: 100%;
 	width: 50%;
-	background-color: #FFFFFF;
-	padding-top: 100px;
-	padding-left: 150;
+	background-color: #F8F8F8;
+	padding-left: 200px;
+
+}
+.black2 {
+	height: 100%;
+	width: 50%;
+	background-color: #F8F8F8;
+	padding-left: 20px;
+	padding-right: 40px;
+	padding-top: 70px;
+
+}
+.black3 {
+	height: 100%;
+	width: 50%;
+	background-color: #F8F8F8;
+	padding-left: 200px;
+	padding-top: 20px;
+
+}
+.black4 {
+	height: 100%;
+	width: 50%;
+	background-color: #F8F8F8;
+	padding-left: 80px;
+	padding-right: 50px;
+	padding-top: 80px;
 }
 
 .green {
